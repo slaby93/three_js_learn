@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules
+dist
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/three_js_learn.iml
+.idea/workspace.xml
+dist/
+node_modules/
